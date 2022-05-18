@@ -1,0 +1,4 @@
+- 👋 ola! sou o @vampology
+- 👀 estou interessada em aprender novas linguagens de programação
+- 🌱 no momento, estou aprendendo nos cursos da alura
+- 📫 meu email é: nenhum. por favor, não me contate.
